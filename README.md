@@ -1,5 +1,5 @@
 # PO 2022/23
 
-###Projekt 1
+### Projekt 1
 
-###Autor Wiktor Cieślikiewicz
+### Autor Wiktor Cieślikiewicz
