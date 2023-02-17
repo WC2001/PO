@@ -1,0 +1,13 @@
+height:10
+width:10
+growth:4
+startingEnergy:6
+energyForPlant:5
+startingAnimals:10
+energyToReproduce:10
+middleGrowth:1
+randomMutation:1
+standardMap:1
+genesPredestination:1
+genesLength:4
+startingPlants:12

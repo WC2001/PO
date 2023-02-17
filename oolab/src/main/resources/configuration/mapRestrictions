@@ -1,0 +1,10 @@
+height:5:30
+width:5:30
+energyForPlant:3:15
+genesLength:4:8
+energyToReproduce:5:30
+startingEnergy:5:20
+middleGrowth:0:1
+standardMap:0:1
+genesPredestination:0:1
+randomMutation:0:1
